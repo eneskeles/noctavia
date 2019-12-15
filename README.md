@@ -7,6 +7,7 @@ find correct combination. Pressed notes glow and the audio output of the notes a
 ## Requirements
 - Basys 3 FPGA Board
 - Vivado Xilinx HLx
+- VGA Screen
 
 ## Usage 
 - Import project on Vivado and compile.
